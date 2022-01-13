@@ -80,6 +80,7 @@ main{
 /* Total Courses section */
 .all-courses{
     display: flex;
+    justify-content: space-between;
 }
 .course img{
     width: 224px;
@@ -87,3 +88,9 @@ main{
 .fa-star, .fa-star-half-alt{
     color: #FFC014;
 }
+
+/* Media Queires */
+@media screen and (max-width: 480px) {
+    
+
+  }
