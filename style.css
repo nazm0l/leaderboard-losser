@@ -78,7 +78,12 @@ main{
 }
 
 /* Total Courses section */
-
+.all-courses{
+    display: flex;
+}
 .course img{
     width: 224px;
+}
+.fa-star, .fa-star-half-alt{
+    color: #FFC014;
 }
